@@ -185,6 +185,12 @@ li {
   cursor: pointer;
 }
 
+.extended {
+    color: red;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
 .nav-toggle-bar {
   display: block;
   width: 1.5rem;
